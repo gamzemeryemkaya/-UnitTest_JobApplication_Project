@@ -1,0 +1,12 @@
+C:\Users\gamze\source\repos\UnitTest_JobApplication\JobApplicationLibrary\bin\Debug\net5.0\JobApplicationLibrary.deps.json
+C:\Users\gamze\source\repos\UnitTest_JobApplication\JobApplicationLibrary\bin\Debug\net5.0\JobApplicationLibrary.dll
+C:\Users\gamze\source\repos\UnitTest_JobApplication\JobApplicationLibrary\bin\Debug\net5.0\JobApplicationLibrary.pdb
+C:\Users\gamze\source\repos\UnitTest_JobApplication\JobApplicationLibrary\obj\Debug\net5.0\JobApplicationLibrary.csproj.AssemblyReference.cache
+C:\Users\gamze\source\repos\UnitTest_JobApplication\JobApplicationLibrary\obj\Debug\net5.0\JobApplicationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamze\source\repos\UnitTest_JobApplication\JobApplicationLibrary\obj\Debug\net5.0\JobApplicationLibrary.AssemblyInfoInputs.cache
+C:\Users\gamze\source\repos\UnitTest_JobApplication\JobApplicationLibrary\obj\Debug\net5.0\JobApplicationLibrary.AssemblyInfo.cs
+C:\Users\gamze\source\repos\UnitTest_JobApplication\JobApplicationLibrary\obj\Debug\net5.0\JobApplicationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\gamze\source\repos\UnitTest_JobApplication\JobApplicationLibrary\obj\Debug\net5.0\JobApplicationLibrary.dll
+C:\Users\gamze\source\repos\UnitTest_JobApplication\JobApplicationLibrary\obj\Debug\net5.0\refint\JobApplicationLibrary.dll
+C:\Users\gamze\source\repos\UnitTest_JobApplication\JobApplicationLibrary\obj\Debug\net5.0\JobApplicationLibrary.pdb
+C:\Users\gamze\source\repos\UnitTest_JobApplication\JobApplicationLibrary\obj\Debug\net5.0\ref\JobApplicationLibrary.dll
